@@ -1,0 +1,12 @@
+[DEBUG] com.rolta.rapidhana.connection.OracleConnectionClass run 26 - Thread to check oracle connection running
+[DEBUG] com.rolta.rapidhana.connection.OracleConnectionClass run 26 - Thread to check Hana connection running
+[DEBUG] com.rolta.rapidhana.connection.OracleConnectionClass run 55 - Before Time:- 2017/08/03 15:24:21 and After Time:- 2017/08/03 15:24:21 for Oracle Connection
+[DEBUG] com.rolta.rapidhana.connection.OracleConnectionClass run 56 - Before Time:- 2017/08/03 15:24:21 and After Time:- 2017/08/03 15:24:21 for Hana Connection
+[DEBUG] com.rolta.rapidhana.connection.OracleConnectionClass run 26 - Thread to check oracle connection running
+[DEBUG] com.rolta.rapidhana.connection.OracleConnectionClass run 26 - Thread to check Hana connection running
+[DEBUG] com.rolta.rapidhana.connection.OracleConnectionClass run 55 - Before Time:- 2017/08/03 15:24:37 and After Time:- 2017/08/03 15:24:37 for Oracle Connection
+[DEBUG] com.rolta.rapidhana.connection.OracleConnectionClass run 56 - Before Time:- 2017/08/03 15:24:37 and After Time:- 2017/08/03 15:24:37 for Hana Connection
+[DEBUG] com.rolta.rapidhana.connection.OracleConnectionClass run 26 - Thread to check Hana connection running
+[DEBUG] com.rolta.rapidhana.connection.OracleConnectionClass run 26 - Thread to check oracle connection running
+[DEBUG] com.rolta.rapidhana.connection.OracleConnectionClass run 55 - Before Time:- 2017/08/03 15:24:52 and After Time:- 2017/08/03 15:24:52 for Oracle Connection
+[DEBUG] com.rolta.rapidhana.connection.OracleConnectionClass run 56 - Before Time:- 2017/08/03 15:24:52 and After Time:- 2017/08/03 15:24:52 for Hana Connection
