@@ -5,10 +5,10 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 public class SchemaDetailsTest {
    public static void main(String args[]) throws Exception {
-     String databaseName = "rapidhana";
-     String userName = "rapidhana";
-     String password = "Rolta2k14";
-     String mySQLPort = "5432";
+     String databaseName = "xyz";
+     String userName = "xyz";
+     String password = "xyz";
+     String mySQLPort = "xyz";
      String hostUrl = "localhost";
      // Setup the connection with the DB
      Class.forName("org.postgresql.Driver");
