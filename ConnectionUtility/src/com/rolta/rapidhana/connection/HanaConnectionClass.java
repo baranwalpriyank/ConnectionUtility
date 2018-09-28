@@ -47,7 +47,7 @@ public class HanaConnectionClass implements Runnable {
 				conn = DriverManager.getConnection(connString, user, password);
 
 				String query = "select 1 from dummy";
-				//String query = "select END_TIME from SFV4_ACEQA94_J8.SYS_UPGRADE_DETAIL";
+				//String query = "dummy query";
 
 				DateFormat dateFormat = new SimpleDateFormat(
 						"yyyy/MM/dd HH:mm:ss");
