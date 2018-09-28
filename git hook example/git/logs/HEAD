@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 8fc87eaaa205062f1933e475c73e20780dad38be Priyank Barnwal <priyank.barnwal@rolta.com> 1528894954 +0530	clone: from https://github.com/baranwalpriyank/ConnectionUtility.git
+8fc87eaaa205062f1933e475c73e20780dad38be 26d21661757f42b65de92f91638b56d7e872d3a0 Priyank Barnwal <priyank.barnwal@rolta.com> 1528897904 +0530	commit: ConnectionUtility
+26d21661757f42b65de92f91638b56d7e872d3a0 11f14fb8d78230e01ca43d2df0bb64bd0516bd01 Priyank Barnwal <priyank.barnwal@rolta.com> 1528953247 +0530	commit: Random Examples
+11f14fb8d78230e01ca43d2df0bb64bd0516bd01 40a6e31523ced96a2ca1560001f43e5994526d73 Priyank Barnwal <priyank.barnwal@rolta.com> 1528953876 +0530	commit: Junit example
+40a6e31523ced96a2ca1560001f43e5994526d73 ad0bec54081bf345dfbceee8b5452a25b3e2783c Priyank Barnwal <baranwalpriyank@gmail.com> 1535003398 +0530	commit: program to retrieve table name and column name from postgres server
+ad0bec54081bf345dfbceee8b5452a25b3e2783c 6637c712a2b8d16e2b59db91517946be1a4f6622 Priyank Barnwal <baranwalpriyank@gmail.com> 1535003723 +0530	commit: removed Main.java
+6637c712a2b8d16e2b59db91517946be1a4f6622 e018ace9870674540646d39801ebb1e976ab383e Priyank Barnwal <baranwalpriyank@gmail.com> 1535003796 +0530	commit: changed username and other information
+e018ace9870674540646d39801ebb1e976ab383e 4626abdebd1b0f5b8fb5f841119a000d40f2db4e Priyank Barnwal <baranwalpriyank@gmail.com> 1536570704 +0530	commit: maven project
+4626abdebd1b0f5b8fb5f841119a000d40f2db4e 459eb7baa651219429d434d777f48876992eb9ee Priyank Barnwal <baranwalpriyank@gmail.com> 1536645790 +0530	commit: checking updatehook
+459eb7baa651219429d434d777f48876992eb9ee d705bd7571d6e558a088458088de57264e4e0a41 Priyank Barnwal <baranwalpriyank@gmail.com> 1538117925 +0530	commit: PB- groovy example

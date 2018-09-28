@@ -1,0 +1,16 @@
+#!/usr/bin/python
+
+import sys
+import re
+
+message_file = sys.argv[1]
+message = open(message_file, 'r').read()
+
+# Match with a specified pattern
+match = re.match(r'PB- ', message)
+
+if match is None:
+    print ('Your commit has been rejected')
+    print ('Commit message must begin with \'PB-\'')
+
+    sys.exit(1)
